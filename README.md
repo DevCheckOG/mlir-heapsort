@@ -1,2 +1,2 @@
-# heapsort-mlir
+# HeapSort
 Heapsort sorting algorithm in MLIR.
